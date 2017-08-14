@@ -6,7 +6,7 @@ var myName = "Nathan";
  */
 var person = {
 	name: "Nathan",
-	age: 25,
+	age: 25
 }
 /* Create a variable called `canDrive`,
  * if it should be true if your person object is at least 16 years old
@@ -29,3 +29,8 @@ var dataTypes = [true, null, undefined, 7, 'hello', person]
  * it should have a `bark` function that makes your dog bark!
  * It should also have a name attribute with the value of 'Spot'
  */
+var dog = {
+	bark: function () {
+		console.log('woof!')
+	}
+}
