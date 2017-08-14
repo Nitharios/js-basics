@@ -18,7 +18,9 @@ if (person.age > 16) {
  * it should take a 1 parameter, `name`
  * and it should print "Hello, my name is {name}"
  */
-
+function greet(name) {
+	console.log('Hello, my name is ' + name)
+}
 /* Create an array called `dataTypes` with atleast 1 of every data type;
  * (there are 6 different data types);
  */
