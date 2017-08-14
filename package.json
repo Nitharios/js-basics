@@ -22,6 +22,7 @@
   "homepage": "https://github.com/devleague/js-basics",
   "dependencies": {
     "chai": "^3.5.0",
+    "exit": "^0.1.2",
     "mocha": "^2.2.4",
     "sinon": "^1.14.1"
   },
