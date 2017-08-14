@@ -32,5 +32,6 @@ var dataTypes = [true, null, undefined, 7, 'hello', person]
 var dog = {
 	bark: function () {
 		console.log('woof!')
-	}
+	},
+	name: 'Spot'
 }
